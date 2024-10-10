@@ -1,0 +1,1 @@
+GET ALL Fleets for the specific user : https://api.balena-cloud.com/v5/my_application
