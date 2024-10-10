@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.145" height="95" viewBox="0 0 54.145 95">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="54.145" height="95" transform="translate(0 0)" fill="#FBAE3C"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2" data-name="Group 2" transform="translate(0 0.001)">
+    <g id="Group_1" data-name="Group 1" transform="translate(0 -0.001)" clip-path="url(#clip-path)">
+      <path id="Path_1" data-name="Path 1" d="M117.2,871.434H85.93a2.872,2.872,0,0,1,0-5.745H117.2a2.872,2.872,0,0,1,0,5.745" transform="translate(-74.494 -776.434)" fill="#FBAE3C"/>
+      <path id="Path_2" data-name="Path 2" d="M237.591,666.731a2.872,2.872,0,0,1-2.872-2.872V640.327a2.872,2.872,0,1,1,5.745,0v23.532a2.872,2.872,0,0,1-2.872,2.872" transform="translate(-210.519 -571.731)" fill="#FBAE3C"/>
+      <path id="Path_3" data-name="Path 3" d="M126.709,58.319H126.4a15.48,15.48,0,0,1-15.48-15.48V15.479A15.48,15.48,0,0,1,126.4,0h.313a15.481,15.481,0,0,1,15.48,15.48V42.838a15.48,15.48,0,0,1-15.48,15.48" transform="translate(-99.48 0.001)" fill="#FBAE3C"/>
+      <path id="Path_4" data-name="Path 4" d="M27.229,417.43h-.313A26.916,26.916,0,0,1,0,390.513a2.872,2.872,0,1,1,5.745,0,21.172,21.172,0,0,0,21.172,21.172h.313A21.172,21.172,0,0,0,48.4,390.513a2.872,2.872,0,0,1,5.745,0A26.916,26.916,0,0,1,27.229,417.43" transform="translate(0 -347.674)" fill="#FBAE3C"/>
+    </g>
+  </g>
+</svg>

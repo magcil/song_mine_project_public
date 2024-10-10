@@ -1,0 +1,9 @@
+.tabled {height: 100%;}
+.tabled .pagination-wrapper{
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+}

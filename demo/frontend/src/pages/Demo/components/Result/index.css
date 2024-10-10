@@ -1,0 +1,36 @@
+.result {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border-radius: 100px;
+    /* background-color: var(--color-light-gray); */
+    background-color: rgba(249, 221, 161, 0.8);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    animation: 2s ease-out 0s 1 slide-in-from-top;
+
+}
+
+.result .logo {
+    height: 50px;
+    width: 50px;
+}
+
+.result .song-details {
+    width: 75%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    color: rgb(020, 020, 020);
+}
+
+.result .song-details>span:first-child {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.empty-result{
+    height: 82px;
+}
