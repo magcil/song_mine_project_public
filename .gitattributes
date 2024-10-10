@@ -1,0 +1,2 @@
+data/museeker.pt filter=lfs diff=lfs merge=lfs -text
+data/IVF50_PQ32.index filter=lfs diff=lfs merge=lfs -text
